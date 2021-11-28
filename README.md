@@ -21,3 +21,14 @@ sh demo.sh
 
 ## Trained Models
 You can download models in the paper from [Google Drive](https://drive.google.com/drive/folders/1Ykz0n7n8aOPo4YkD0uanf5R9FWE8tUua?usp=sharing).
+
+## Citation
+```
+@inproceedings{zheng2021online,
+  title={Online Pseudo Label Generation by Hierarchical Cluster Dynamics for Adaptive Person Re-Identification},
+  author={Zheng, Yi and Tang, Shixiang and Teng, Guolong and Ge, Yixiao and Liu, Kaijian and Qin, Jing and Qi, Donglian and Chen, Dapeng},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={8371--8381},
+  year={2021}
+}
+```
