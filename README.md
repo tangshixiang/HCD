@@ -2,6 +2,7 @@
 ![PyTorch >=1.0](https://img.shields.io/badge/PyTorch->=1.0-yellow.svg)
 
 # Online Pseudo Label Generation by Hierarchical Cluster Dynamics for Adaptive Person Re-identification
+This repo is an official implementation of Online Pseudo Label Generation by Hierarchical Cluster Dynamics for Adaptive Person Re-identification.
 This repo is largely based on SpCL. Many thanks to Yixiao Ge. https://github.com/yxgeee/SpCL/tree/master/spcl
 
 ## Requirements
